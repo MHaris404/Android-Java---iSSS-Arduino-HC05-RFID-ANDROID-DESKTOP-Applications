@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "272406004153",
+    "firebase_url": "https://isss-d1404.firebaseio.com",
+    "project_id": "isss-d1404",
+    "storage_bucket": "isss-d1404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272406004153:android:898cca9675065afae67668",
+        "android_client_info": {
+          "package_name": "com.example.isss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272406004153-61nnkrkjul0scgfe1i0dgiglurocgelg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlQUwOxcONQ02FUldqiRz0qTdUEpsi1XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272406004153-61nnkrkjul0scgfe1i0dgiglurocgelg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
